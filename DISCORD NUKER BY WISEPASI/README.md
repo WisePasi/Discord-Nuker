@@ -18,3 +18,6 @@ Step 5 : Enter how many channel and roles you wanna create
 Step 6 : Enter the name for channels and roles
 
 Step 7 : Enter the message that you wanna dm the members
+
+
+ENJOY!!!!!!
